@@ -1,0 +1,10 @@
+{
+  "project" : "MGA-sprint3",
+  "leader" : "benjamin.jin@semifive.com",
+  "lable" : "MGA-sprint3",
+  "JiraKey"  : "RHEA",
+  "receivers" : [
+    "aaron.cheon@github.com",
+    "97sebin@gmail.com"
+  ]
+}
